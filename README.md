@@ -10,6 +10,7 @@
 ## Resources in this repository
 ### Data Modeling
 ### Dashboard for showcasing visual insights
+### SQL Queries for AD-Hoc Analysis
 
 ## 📊 Key Metrics focused in Analysis
 ### 🚗 Total Trip Volume
