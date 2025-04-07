@@ -12,8 +12,8 @@
 ### Dashboard for showcasing visual insights
 
 ## 📊 Key Metrics focused in Analysis
-###🚗 Total Trip Volume
-###😃 Passenger Satisfaction
-###🔁 Repeat Passenger Rate
-###🗺️ Trip Distribution by City
-###👥 New vs. Repeat Passengers
+### 🚗 Total Trip Volume
+### 😃 Passenger Satisfaction
+### 🔁 Repeat Passenger Rate
+### 🗺️ Trip Distribution by City
+### 👥 New vs. Repeat Passengers
