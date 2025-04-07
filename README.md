@@ -22,3 +22,15 @@
 ### Schema used for Data Modeling - Star Schema
 ![DataModel](https://github.com/user-attachments/assets/2cff2f39-052c-43da-b81e-7db1fc48ee80)
 
+## Passenger Analysis
+![Passenger](https://github.com/user-attachments/assets/175e1ab8-2578-47c3-a94e-8c3c8c90e7e0)
+
+## City Analysis
+![City ](https://github.com/user-attachments/assets/be46b8f5-abcc-4f4c-8eb6-399563c2967a)
+
+## Executive Analysis
+![Executive](https://github.com/user-attachments/assets/8f215865-6c99-4d0a-b5b6-edfb574e300d)
+
+
+
+
