@@ -17,3 +17,8 @@
 ### 🔁 Repeat Passenger Rate
 ### 🗺️ Trip Distribution by City
 ### 👥 New vs. Repeat Passengers
+
+## DataModel 
+### Schema used for Data Modeling - Star Schema
+![DataModel](https://github.com/user-attachments/assets/2cff2f39-052c-43da-b81e-7db1fc48ee80)
+
